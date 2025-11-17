@@ -1,4 +1,4 @@
-# Service Reliability Monitor
+# AST Service Reliability Monitor
 
 A lightweight FastAPI service that periodically monitors multiple services, checks their availability and version, and stores results in SQLite. Provides a minimal API for querying services and their health.
 
